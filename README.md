@@ -34,6 +34,10 @@ board](images/snesdump_rear.jpg)
   - For obvious reasons you can't use both at the same time
   - It is **highly** recommended to mount the microcontroller on headers so it can be removed later
 
+* Decoupling Capacitor (optional)
+  - an electrolytic capacitor with a rating of at least 6.3v and a value from 0.1uF to 10uF will
+    improve the general stability of the reader
+
 ## Licenses
 
 SNES Slot Footprint ([SNES-CONN-EXP.kicad_mod](https://github.com/db-electronics/kicadlib)) is
